@@ -62,7 +62,7 @@ fun HomeScreen(navController: NavHostController) {
                 ItemContact("Mirella Cesa")
                 ItemContact("Mariela Condo")
                 ItemContact("Pamela Cortés")
-                ItemContact("Cristina Morrison")
+                ItemContact("Cristina Morrisn")
             }
         }
 
