@@ -53,15 +53,15 @@ fun HomeScreen(navController: NavHostController) {
 
     { paddingValues ->
         Column(modifier = Modifier.padding(paddingValues)) {
-                ItemContact("Sharon la Hechicera",)
-                ItemContact("Dayanara Peralta",)
-                ItemContact("Azucena Aymara",)
-                ItemContact("Jenny Rosero",)
-                ItemContact("Alexandra Cabanilla",)
-                ItemContact("María Elisa Camargo",)
-                ItemContact("Mirella Cesa",)
-                ItemContact("Mariela Condo",)
-                ItemContact("Pamela Cortés",)
+                ItemContact("Sharon la Hechicera")
+                ItemContact("Dayanara Peralta")
+                ItemContact("Azucena Aymara")
+                ItemContact("Jenny Rosero")
+                ItemContact("Alexandra Cabanilla")
+                ItemContact("María Elisa Camargo")
+                ItemContact("Mirella Cesa")
+                ItemContact("Mariela Condo")
+                ItemContact("Pamela Cortés")
                 ItemContact("Cristina Morrison")
             }
         }
